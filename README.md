@@ -13,9 +13,9 @@ To install:
 To use:
 `$ parcel index.html`
 
-You will need to create your own `index.html` in the project root directory. Insert your api key from Google int the appropriate place.
+You will need to create your own `index.html` in the project root directory. Insert your api key from Google in the appropriate place.
 
-`
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -30,4 +30,4 @@ You will need to create your own `index.html` in the project root directory. Ins
     <script src="./src/index.ts"></script>
   </body>
 </html>
-`
+```
